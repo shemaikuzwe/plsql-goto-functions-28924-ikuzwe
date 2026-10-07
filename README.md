@@ -34,14 +34,31 @@ docs/          Reflection
 
 ## Results and Screenshots
 
-Add the output screenshots here after running the scripts:
+The screenshots below show the output from each assignment task.
 
-- `screenshots/A1_output.png`
-- `screenshots/A2_output.png`
-- `screenshots/A3_error_and_fix.png`
-- `screenshots/A4_output.png`
-- `screenshots/B5_select_output.png`
-- `screenshots/C1_output.png`
+### A1 — Number Classification
+
+![A1 number classification output](screenshots/A1_output.png)
+
+### A2 — Salary Review
+
+![A2 salary review output](screenshots/A2_output.png)
+
+### A3 — Illegal GOTO and Correction
+
+![A3 illegal GOTO error and correction](screenshots/A3_error_and_fix.png)
+
+### A4 — Classifier Without GOTO
+
+![A4 classifier output](screenshots/A4_output.png)
+
+### B5 — Function Calls in a SELECT Query
+
+![B5 SELECT query output](screenshots/B5_select_output.png)
+
+### C1 — Payroll Validation
+
+![C1 payroll validation output](screenshots/C1_output.png)
 
 ## Reflection
 
